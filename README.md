@@ -13,7 +13,11 @@ The dataset have data of individuals froms different countries openning an accou
 
 
 ** Lincensed By:**
-Moringa Data science School
+
+
+    Moringa Data science School
 
 ** project By**
-@ArthackA
+
+
+    @ArthackA
